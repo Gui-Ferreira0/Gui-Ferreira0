@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 SOBRE MIM
 ### Meu nome é **Guilherme**  
-### 📚 Estudo no **SESI** e no **SENAI**  
+### 📚 Estudo no **SESI** e faço curso de TI no **SENAI**
 ### 🌎 Faço curso de inglês há alguns anos (nível intermediário)
 
 ---
