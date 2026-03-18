@@ -39,6 +39,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Ferreira0&layout=compact&theme=dark"/>
 </p>
 
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
 ## 📌 OBJETIVO
 ### Evoluir cada vez mais na programação superando meus limites 💫
-### Criar projetos e melhorar minhas habilidades 🚀
+
