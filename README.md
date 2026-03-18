@@ -1,5 +1,5 @@
 ## 👋
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=+Eu+sou+o+Guilherme;Bem-vindo+ao+meu+GitHub!"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Olá+sou+o+Guilherme;Seja+bem-vindo+ao+meu+perfil"/>
 
 ## 🧑‍💻 SOBRE MIM
 ### Meu nome é **Guilherme**  
