@@ -6,6 +6,8 @@
 ### 📚 Estudo no **SESI** e faço curso de TI no **SENAI**
 ### 🌎 Faço curso de inglês há alguns anos (nível intermediário)
 
+
+## Linkedin: https://www.linkedin.com/in/guilherme-ferreira-3288793b0/
 ---
 
 ## 🚀 LINGUAGENS
