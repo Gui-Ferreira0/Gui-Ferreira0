@@ -36,7 +36,7 @@
 
 ## 📈 Linguagens mais usadas
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Ferreira0&layout=compact&theme=dark"/>
 </p>
 
 ## 📌 OBJETIVO
