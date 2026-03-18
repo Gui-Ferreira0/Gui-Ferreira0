@@ -41,7 +41,7 @@
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gui-Ferreira0/Gui-Ferreira0/blob/output/github-contribution-grid-snake.svg)
 
 ## 📌 OBJETIVO
 ### Evoluir cada vez mais na programação superando meus limites 💫
